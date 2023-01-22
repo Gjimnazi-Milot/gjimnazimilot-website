@@ -1,0 +1,23 @@
+body {
+ margin:0;
+ background:url('milotgjimnazi.jpg');
+ background-repeat: no-repeat;
+ background-size: 100% 75%;
+ font-family: Quicksand;
+}
+.menu {list-style:none;
+margin:0;
+padding:0;
+text-align:center;}
+.menu li{
+display:inline;}
+.menu a{
+display:inline-block;
+text-decoration:none;
+padding:20px;
+font-size:30px;
+font-family:Patua One;
+coLor: white;
+background: chocolate;
+margin-Left:15px;
+border-radius:0px 0px 25px 25px;}

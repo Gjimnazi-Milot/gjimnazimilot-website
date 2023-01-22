@@ -1,0 +1,14 @@
+<!DOCTYPE  html>
+<html>
+<head>
+<title>MENU</title>
+<link rel="stylesheet"type="text/css"href="stili i menuse.css">
+</head>
+<body>
+<ul class="menu">
+<li><a href"="Matura shtetërore.html">Matura shtetërore</a></li>
+<li><a href="legjislacioni.html">Legjislacioni për arsimin parauniversitar</a></li>
+<li><a href="KIMI PLAN.html">procesi mësimor</a></li>
+<li><a href="">Aktivitetet</a></li>
+</body>
+</html>

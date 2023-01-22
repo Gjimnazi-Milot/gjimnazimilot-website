@@ -1,0 +1,18 @@
+body {
+ margin:0;
+ background:url('diplomuarit.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100% 100%;
+font-family: Quicksand;}
+a {
+text-align:center;
+font-family:Patua One;
+coLor: green;
+padding:20px;
+font-size:30px;
+font-family:Patua One;
+coLor: white;
+background: green;
+margin-Left:15px;
+border-radius:0px 0px 25px 25px;}

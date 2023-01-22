@@ -1,0 +1,10 @@
+<!DOCTYPE  html>
+<html>
+<head>
+<title>MENU</title>
+</head>
+<body>
+<ul class="menu">
+<button> onclick="location.href='Ducuments/ora e hapur kimi 10.docx';"</button>
+</boddy>
+</html>
